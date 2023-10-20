@@ -2,8 +2,8 @@
 #include <stdlib.h>
 int main(){
 
-int escolha;
-int valor;
+int escolha, valor;
+
 
 printf("Conversor de bases numéricas \n");
 printf("Digite 1 para realizar a conversão de decimal para hexadecimal \n");
